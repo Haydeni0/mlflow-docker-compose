@@ -6,7 +6,7 @@ MinIO S3 is used as the artifact store and MySQL server is used as the backend s
 
 ## Usage
 
-Edit default credentials in [`./.env`](./.env) or published ports in [`./compose.yaml](./compose.yaml).
+Edit default credentials in [`./.env`](./.env) or published ports in [`./compose.yaml`](./compose.yaml).
 
 Start the tracking server with:
 
